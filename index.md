@@ -24,4 +24,5 @@ Whether you're a student sifting through research papers, a professional managin
 Say goodbye to frustration and hello to efficiency. With BeyondPDF, you're not just searching – you're finding. Download now and experience the future of PDF navigation!
 
 [Support](./support.html)
+<br>
 [Privacy Policy](./privacy.html)
